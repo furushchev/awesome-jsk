@@ -25,7 +25,7 @@
 - 2nd Call for Papers - 08 February 2016
 - Final Call for Papers - 04 April 2016
 - Submission paper opens - 02 May 2016
-- Deadline for submission paper - 15 July 2016
+- **Deadline for submission paper - 15 July 2016**
 
 ### SII 2016 - IEEE/SICE International Symposium on System Integration
 
@@ -37,7 +37,7 @@
 ##### Important Dates
 - Proposal for Organized Sessions Submission Deadline: July 1, 2016
 - Notification of Acceptance for Organized Sessions: July 7, 2016 
-- Organized Session Paper Submission Deadline: July 29, 2016 
+- **Organized Session Paper Submission Deadline: July 29, 2016**
 - Notification of Acceptance: September 23, 2016
 - Camera-Ready Deadline: October 21, 2016
 
